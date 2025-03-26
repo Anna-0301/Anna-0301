@@ -1,7 +1,6 @@
-## Hi, i am Anna 👋
-
-<!--
-About me
+Hi, i am Anna 👋
+-
+About me:
 -
 I am 40 year old 
 -
